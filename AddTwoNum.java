@@ -1,7 +1,7 @@
 public class AddTwoNum {
   public static void main(String[] args) {
-    if(args.length <2) {
-      System.out.println("please provide two numbers as  arguments .");
+    if (args.length < 2) {
+      System.out.println("please provide two numbers as  arguments.");
       return;
     }
      int num1 = Integer.parseInt(args[0]);
